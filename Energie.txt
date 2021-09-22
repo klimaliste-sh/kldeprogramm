@@ -1,0 +1,170 @@
+Energie
+
+Die Transformation zu einer CO2-neutralen Energiegewinnung ist die Basis zur Erreichung unserer Klimaziele.
+
+Energiewende
+Allein die Energiewirtschaft, also die Bereitstellung von Elektrizität, verursachte 2020 30% der deutschen CO2-Emissionen[1].
+Damit Deutschland insgesamt klimaneutral wird, müssen allerdings auch der Verkehr und die Industrie auf Strom oder andere, klimaneutrale Energieträger umgestellt werden.
+Da die Herstellung klimaneutraler Energieträger wie grünem Wasserstoff sehr energieintensiv ist, dementsprechend also eine noch viel größere Menge erneuerbarer Energien zugebaut werden müsste, setzen wir uns dafür ein so viel wie möglich zu elektrifizieren.
+Der Bedarf an Strom und Speichern kann allerdings durch eine intelligente Vernetzung der Stromverbraucher wie E-Autos, Kühlsystemen und der Industrie, gesenkt werden.
+Außerdem setzen wir uns eine gesellschaftliche Transformation hin zu einem ressourcenschonenden und in Kreisläufen funktionierenden System ein.
+Dabei entsteht nicht nur weniger Müll, sondern die verfügbaren Energieträger werden auch viel effizienter genutzt, da die Verbrennung fossiler Energieträger mit sehr hohen Verlusten einhergeht.
+Verschiedene Studien haben berechnet, dass der Endenergiebedarf unserer Gesellschaft in diesem Fall von ca. 2500 TWh auf ca. 1500 TWh um ca. 40% sinken wird [2].
+Da diese Energie aber größtenteils aus Strom gewonnen wird, steigt der Strombedarf trotzdem um mehr als das doppelte [3].
+
+Was bedeutet das konkret? Zurzeit decken wir in Deutschland etwa 50% des Strombedarfs aus erneuerbaren Energien.
+Wenn der Strombedarf um das zwei- bis dreifache steigt, brauchen wir also vier bis sechs Mal so viel Strom aus erneuerbaren Energien.
+Zusätzlich entstehen Verluste durch Speicherung von Strom.
+Wir möchten in den frühen 2030ern das Stromnetz klimaneutral haben.
+Dazu muss der Zubau von Windenergie und PV um das 5-7-fache des mittleren Zubaus dieser Energieträger in den letzten 10 Jahren steigen.
+Wir haben in Deutschland genug Potential an Photovoltaik und Windkraft um diese Strommengen zu produzieren.
+
+Zuerst wird damit die Kohleenergie aus dem Stromnetz verdrängt, während Gaskraftwerke weiter Regelleistung liefern, um Ausfälle der erneuerbaren Energien auszugleichen.
+Der Verbrauch von Biogas soll dabei nicht weiter steigen und der Verbrauch von Erdgas durch zunehmende Anpassung der Stromnachfrage an die Verfügbarkeit erneuerbarer Energien gedeckelt werden.
+Verbleibende Gasnachfrage soll dann durch synthetisches Gas ersetzt werden, sobald erneuerbare Energien zeitweise Überschüsse abwerfen.
+Damit soll das ab 2022 bis zur Klimaneutralität erforderliche Kohlenstoffbudget des Stromnetzes auf unter 1 Gt CO2 beschränkt werden [4].
+
+
+Abschaffung von Kohle & Gas
+Die Prozesse, die mit dem höchsten Ausstoß von klimawirksamen Gasen verbunden sind, müssen zuerst ersetzt werden.
+Daher sind zuerst Kohlekraftwerke vom Netz zu nehmen, Erdgaskraftwerke danach, sobald sie durch erneuerbare Energien ersetzt werden können.
+Das kann je nach Szenario auch bedeuten, Gaskraftwerke mit synthetischem Erdgas als Teil einer Speicherlösung weiterzubetreiben.
+
+
+PV und Wind
+Windenergie und Photovoltaik (PV) werden die beiden wichtigsten Säulen zukünftiger Energieversorgung sein.
+Eine ausgewogene Mischung zwischen Windkraft und Photovoltaik ist dabei notwendig, da so eine über die Tage wesentlich konstantere Stromversorgung sichergestellt werden kann.
+
+Wir fordern klare Ausbauziele für diese Energieformen für jede Region, gemäß ihrer jeweilligen Potentiale.
+Es soll dabei ein Gestaltungsspielraum geben, ob mehr Windenergie oder mehr PV gebaut wird - sofern die Mehrkosten für ein Abweichen vom Plan auch bezahlt, genügend Speicher gebaut werden und in Summe genug Energie erzeugt wird.
+
+Für die Windenergie müssen Rahmenbedingungen für den notwendigen Ausbau geschaffen werden.
+
+
+Solarenergie
+Langfristig gehören PV-Anlagen auf jedes geeignete Dach.
+Akut sollte der Ausbau von leicht realisierbaren PV-Freiflächenanlagen bevorzugt erfolgen.
+Zur Förderung des Einsatz von Solarenergie vorallem dezentral im Privaten Wohnsektor, muss der Erwerb und die Installation von PV-Anlagen erheblich erleichtert werden.
+Die bisherigen Bedingungen dafür müssen massiv entbürokratisiert werden.
+Vorbild für eine vereinfachte PV-Anlagen Politik ist hierbei das Holländische Modell.
+Der Erwerb einer PV-Anlage ist an keine Bedingungen gebunden und ist jeder rechtsfähigen Person möglich.
+Der über den Eigenbedarf hinausgehende Mehrstrom wird ins öffentliche Netz eingespeist und der Stromzähler läuft dann rückwärts.
+Privat erzeugter Strom ist dem Strom großer Stromerzeuger gleichgestellt und es besteht kein Unterschied in der Vergütung der kWh.
+Die kombinierte Flächennutzung soll durch die Änderung bauordnungsrechtlicher Rahmenbedingungen und besserer Zusammenarbeit vereinfacht werden.
+So werden mit Agrophotovoltaik landwirtschaftliche  Nutzungen mit der Energiegewinnung kombiniert und mit Errichten von Solarstrom-Biotopen Lebensräume geschützt.
+Freiflächenphotovoltaikanlagen  sind  zurzeit  auf  landwirtschaftlichen Flächen nur zulässig, wenn die jeweilige Gemeinde einen Bebauungsplan für die gewünschte Fläche erstellt und den Flächennutzungsplan entsprechend anpasst.
+Dadurch ist Agrophotovoltaik  in  vielen  Fällen  nicht,  oder  nur  mit  einem  großen bürokratischen  Aufwand,  zusätzlichen  Kosten  und  Auflagen,  sowie rechtlichen  Unsicherheiten,  möglich.
+Deshalb  setzen  wir  uns  dafür ein, dass Agrophotovoltaik als privilegiertes Vorhaben eingestuft wird.
+Dafür muss Agrophotovoltaik in die abschließende Liste in § 35 Abs. 1 BauGB der Bundesgesetzgebung aufgenommen werden.
+Außerdem setzen wir uns dafür ein, dass die nationale Direktzahlungen-Durchführungsverordnung (DirektZahl-DurchfV) der Bundesebene konkretisiert wird, um Planungssicherheit zu schaffen.
+Diese Verordnung regelt die Auszahlung der EU-Direktzahlungen für primär landwirtschaftlich genutzte Flächen.
+
+
+Windenergie
+Die noch zusätzlich für den Ausbau der Windenergie notwendigen Vorranggebiete werden in den Regionalplänen des Landes Rheinland-Pfalz ausgewiesen.
+Als Ausgleichsmaßnahme werden vorwiegend weitere Naturschutzgebiete planerisch festgelegt.
+Bereits parallel zur Ausweisung von Vorranggebieten werden Vorprüfungen für die Genehmigung von Windkraftanlagen durchgeführt.
+Die Genehmigungsverfahren werden entbürokratisiert und durch u. a. die Digitalisierung der Genehmigungsprozesse vereinfacht und beschleunigt.
+Die mit der Digitalisierung eingesparten Arbeitskapazitäten werden zusammen mit zusätzlich ausgebildetem Personal regional gebündelt, um eine landesweit flächendeckende Unterstützung der Kommunen für einen schnellen Ausbau von Wind- und Solarkraftanlagen zu gewährleisten.
+Die pauschale Abstandsregelung für Windkraftanlagen wird abgeschafft, da sie unter anderem auch das Repowering - also das energieeffiziente Erneuern  von  Bestandsanlagen  -  verhindert  und  geeignete  Flächen  zur Windenergienutzung reduziert.
+Für  das  Repowering  von  Bestandsanlagen  wird  ein  deutlich  vereinfachtes Baugenehmigungsverfahren ermöglicht.
+Dabei soll sich die Abwägung der von der Anlage ausgehenden Risiken auf die Umgebung ausschließlich auf den Ist-Zustand mit der/den Bestandsanlage(n) beziehen.
+Für die Genehmigung im Repowering müssen daher nur ergänzende Unterlagen, die ausschließlich die veränderten Auswirkungen darstellen, zu den bereits vorhandenen  Gutachten  der  Erstanlage  angefertigt  und  als  ergänzender Antrag eingereicht werden.
+Bürger*innen, die in unmittelbarer Nähe zu einer Windkraftanlage wohnen, erhalten eine Zahlung zum Teilausgleich des Netzentgeltes.
+Alternativ kann ein Geschäftsanteil an der Anlage erworben oder ein Sparprodukt vereinbart werden.
+Diese  Maßnahme  erhöht  die  Akzeptanz  und  Zustimmung  der Bürger*innen für das Errichten weiterer Windkraftanlagen in unmittelbarer Nähe.
+
+
+Allgemeine Maßnahmen zur Förderung von Photovoltaik und Windkraft
+Aufbau und Förderung von Unternehmen, welche innerhalb Deutschlands Erneuerbare Energien-Anlagen herstellen.
+Damit werden auch Bedingungen für neue Arbeitsplätze geschaffen.
+Das Erneuerbare-Energien-Gesetz, als zentrales Steuerelement der Energiewende, muss so gestaltet werden, dass es eine maximale Förderung von Anlagen zur Gewinnung erneuerbarer Energien technologieoffen ermöglicht und fördert.
+Die Deckelung des Zubaus wird abgeschafft.
+
+Energiereduzierungsmaßnahmen
+Reduktion des Energieverbrauchs
+Neben der umstellung des Energiesektors auf Erneuerbare Energien ist ein zweites anzustrebendes Ziel den Energieverbrauch in der Summe zu reduzieren.
+Dies steht auch im unmittelbaren Zusammenhang mit den notwendigen Transformationsprozessen in Gesellschaft und Wirtschaft.
+
+
+Netzausbau
+Parallel zum Ausbau der erneuerbaren Energien und Reduzierung/Abschaffung fossiler Energien müssen die Versorgungs- und Übertragungsnetze in Deutschland und europaweit angepasst werden.
+
+Der bisherige Netzausbauplan der Bundesnetzagentur berücksichtigt das Szenario einer 100%igen Versorgung im EE nur teilweise.
+So baut der Netzentwicklungsplan in Deutschland auf einem nach wie vor hohen und teilweise sogar steigenden Anteil fossiler Erdgasverstromung auf.
+Daher sollte der Szenariorahmen, der dem nächsten Netzentwicklungsplan Strom zugrunde liegt, 100-Prozent-Erneuerbare-Szenarien enthalten.[5]
+
+Besonders die aktuell starke Berücksichtung großer Mengen an fossiler Kohle und Erdgas sowie erhebliche Mengen an Kernkraft sind hier zu korrigieren.
+
+Bedarfsgerechter Ausbau der Versorgungs- und Übertragungsnetze mit Präferenz einer lokalen, verbrauchsnahen Energieerzeugung.
+Dadurch werden möglicherweise geplante Nord-Süd Trassen überflüssig
+Ausrichtung der Bundesnetzplanung an dem Ziel  100% Erneuerbare Energien
+Digitalisierung des Stromnetzes für zukünftige intelligente Grids
+Die dafür benötigten Anpassungen beim Endkunden (zB digitale Stromzähler) dürfen nicht privat in Rechnung gestellt werden
+Entlastung des Strompreises für Endverbraucher von den aktuell explodierenden Netzentgelten
+Bundesweite Angleichung der Netzentgelte: Aktuell bezahlen die Endverbraucher in SH und MV mehr als doppelt so hohe Netzentgelte wie Bayern, BW und NRW [6].
+Anpassung der garantierten Umsatzrenditen für Netzbetreiber an marktübliche Renditen
+Verstaatlichung der Übertragungsnetze (???)
+
+
+Speichertechnologie
+
+Die Entwicklung und Ausbau von Speichertechnologien ist essentiell beim breiten Einsatz erneuerbarer Energien.
+Sonnenlicht und Wind sind volatil und lassen sich nicht speichern und bedarfsgerecht abrufen.
+Für die Versorgungssicherheit sind Energiespeicher daher von zentraler Bedeutung.
+Grüner Strom kann über intelligente Netze in Batterien von E-Autos und EFH kurzfristig gespeichert und abgerufen werden.
+Mit dem Strom lassen sich Pumpspeicherkraftwerke aufladen, die den Strom dann wieder zeitversetzt abgeben.
+Über die Nordlink-Leitung wird hierzu Wasserkraft in Norwegen eingesetzt.
+
+Auch in Deutschland müssen solche Anlagen errichtet werden.
+
+Die Erzeugung von Methan und Wasserstoff als lagerfähiger Energieträger ist teuer, stark verlustbehaftet und sollte nur nachgeordnet eingesetzt werden.
+Wärme aus Sonnenlicht und Prozesswärme aus Biomasseanlagen (Klärwerke, Faultürme, Biogas) kann in Freiwasserspeichern und unteriridischen Kavernen gespeichert und zeitversetzt abgerufen werden (Aquiferspeicher Hamburg, Local District Heating Dänemark).
+Die Verteilung erneuerbarer Energie über größere Distanzen kann die Menge erforderlicher Speicher reduzieren.
+Der Aus- bzw. Umbau der Stromnetze ist eine der dringlichsten Herausforderungen der Energiewende und darf auf keinen Fall verzögert werden - etwa durch Debatten um unrealistische Erdverkabelung über weite Strecken.
+
+Sektorenkopplung
+Essentiell für das gelingen der Energiewende ist eine intelligente Verknüpfung der Sektoren.
+So können Stromspitzen beispielsweise genutzt werden um Kühlregale in Supermärkten oder Weinkeller etwas mehr zu kühlen.
+Wenn weniger Strom zur Verfügung steht, kann die Kühlung dann gedrosselt werden, sodass der Strombedarf sinkt.
+Genauso können die Heizungen und Nutzgeräte in Haushalten, die Industriepdoduktion und auch E-Autos intellingent vernetzt werden.
+Dadurch können große Mengen an Speichern gespart und das Netz stabilisiert werden.
+Für diese Kopplung der Sektoren müssen die Rahmenbedingungen geschaffen werden.
+Insbesondere müssen alle E-Autos eine standardisierte Schnittstelle für ein bidirektionales Laden haben, damit sie an jeder Ladesäule geladen und auch entladen werden können.
+
+Damit das bidirektionale Laden (laden & entladen) an jeder Ladesäule funktioniert muss als Standard für E-Autos gelten, dass sie mit Wechselstrom geladen werden und den Standard ISO/DIS 15118-20 erfüllen.
+
+
+Atomenergie
+Wir lehnen Kernkraft zur Energiegewinnung grundsätzlich ab.
+Trotz der Sicherheitsbekundungem kam es in Tschernobyl und Fukushima zu erschütternden Unfällen.
+Darüber hinaus ist die Endlagerfrage immer noch nicht geklärt – genau wie die Klimakrise selbst ist Atomkraft eine Bürde, die die nachfolgenden Generationen zu tragen haben werden.
+
+Technologien, wie neue Reaktortypen oder auch Kernfusion, die heute noch im Prototypenstatus stehen, werden für die Energiewende, also bis zur CO2-Neutralität, keine Rolle mehr spielen.
+
+Die bestehenden Kernkraftwerke nochmal zu verlängern, als Alternative zur Kohle, würde zwar eine Einsparung an CO2 bringen, aber da die Abschaltung bereits geplant ist, würden für ein Umplanen hohe Mehrkosten entstehen.
+Die Kosten, die bei Kernkraft für die Erzeugung der Energie entstehen, sind gering, aber die laufenden Kosten für die Sicherheit der Anlagen sind imens.
+Kernkraftwerke statt für Grundlast zur Erzeugung von Regelleistung bei Ausfall erneuerbarer Energien einzusetzen, ist vollkommen unwirtschaftlich - wenn auch technisch möglich.
+
+Der für die Energiewende erforderliche Zubau von Windenergie und PV wird so groß sein, dass auch 2022 trotz Atomausstieg die Emissionen durch Kohleverstromung sinken werden.
+Wir konzentrieren uns auf dieses nachhaltige Ziel, statt Geld für teure Notlösungen zu verplempern.
+
+
+Akzeptanz
+Der Ausbau von Windkraft, Photovoltaik, Solarthermie und Biomasseanlagen sowie der benötigten Netze und Speichertechnologien stagniert in Deutschland seit Jahren.
+Union, Wirtschaftsverbände aber auch Umwelt- und Bürgerinitiativen verhindern oft den Bau neuer Anlagen.
+Die Bau- und Raumordnungsverfahren müssen daher in Abstimmung mit den betroffenen Interessengruppen neu ausgerichtet werden.
+Ziel ist ein schneller, planbarer, umwelt- und sozialgerechter Ausbau mit stark eingeschränkten Klagemöglichkeiten.
+Kommunen werden dafür finanziell  sowie personell  dabei unterstützt, Energiegenossenschaften (eG) zu gründen.
+Bürger*innen können Anteile erwerben, erhalten unabhängig von der Anzahl der Anteile ein gleichwertiges Stimmrecht und partizipieren somit direkt von der Energiewende vor Ort.
+
+
+
+Quellen:
+[1]: https://www.bmu.de/pressemitteilung/treibhausgasemissionen-sinken-2020-um-87-prozent/
+[2]: https://www.diw.de/de/diw_01.c.821878.de/publikationen/wochenberichte/2021_29_1/100_prozent_erneuerbare_energien_fuer_deutschland__koordinierte_ausbauplanung_notwendig.html
+[3]: ISE: Wege zu einem klimaneutralen Energiesystem
+[4]: https://klimaliste-darmstadt-dieburg.de/?/sites/btw21.html#energiewende
+[5]: Zitat https://www.diw.de/de/diw_01.c.821878.de/publikationen/wochenberichte/2021_29_1/100_prozent_erneuerbare_energien_fuer_deutschland__koordinierte_ausbauplanung_notwendig.html
+[6]: https://static.agora-energiewende.de/fileadmin/Projekte/2014/transparente-energiewirtschaft/Agora_Netzentgelte_2019.pdf
+
