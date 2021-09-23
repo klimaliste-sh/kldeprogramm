@@ -1,4 +1,4 @@
-Verkehr
+# Verkehr
 
 Wir arbeiten auf eine Verkehrswende hin, welche die Abhängigkeit vom motorisierten Individualverkehr überwindet und die Klimaneutralität im Verkehrssektor herstellt.
 Dies wird neben dem notwendigen Klimaschutz zu mehr Platz zum Leben, weniger Lärm, weniger Unfällen und einer höheren Aufenthalts- und Lebensqualität, vor allem in den Ballungsräumen, führen.
@@ -19,7 +19,7 @@ Gleichzeitig wird die Subventionierung des Autoverkehrs und seiner Infrastruktur
 Ab Juni 2024 werden keine privaten PKWs mit Verbrennungsmotor mehr zugelassen.
 
 
-Rad- und Fußverkehr fördern
+## Rad- und Fußverkehr fördern
 Wir wollen eine stark verbesserte Fahrradinfrastruktur, d.h. ausreichend breite und geschützte Radwege, entschärfte Kreuzungsbereiche nach niederländischem Vorbild und gute Abstellmöglichkeiten gerade an Bahnhöfen und Bushaltestellen.
 Die Rechte von Radler*innen und Fußgänger*innen im Straßenverkehr müssen gestärkt werden.
 Ziel sind keine Toten und Schwerverletzten im Straßenverkehr (Vision Zero).
@@ -32,7 +32,7 @@ Der Verkehrsfluss muss an ÖPNV, Fahrrad- und Fußverkehr angepasst werden.
 Dazu gehören kürzere Ampelschaltzeiten, mehr Kreuzungen ohne Ampeln, mehr und bessere Fußgängerüberwege, sowie fahrradfreundliche Lösungen wie z.B. den sog. Idaho-Stopp oder freies Rechtsabbiegen für Radfahrer*innen (grüner Fahrradpfeil).
 
 
-Ausbau von ÖPNV und öffentlichem Fernverkehr
+## Ausbau von ÖPNV und öffentlichem Fernverkehr
 Unser Ziel ist, allen Menschen im ländlichen Raum einen effizienten und verlässlichen Anschluss an den ÖP(N)V zu ermöglichen.
 ÖPV ist eine Kernaufgabe der öffentlichen Daseinsvorsorge und soll nach dem Modell der integrierten öffentlichen Bahn, wie es etwa in der Schweiz besteht, organisiert werden.
 Die Gewinnorientierung im Bahnverkehr soll abgeschafft werden.
@@ -53,7 +53,7 @@ Für den einfachen, schnellen und barrierefreien Wechsel zwischen verschiedenen 
 Diese sollen als Mobilitätsstationen auch andere Serviceangebote und weitere Sharing-Services anbieten.
 
 
-PKW-Verkehr reduzieren, den Rest elektrifizieren
+## PKW-Verkehr reduzieren, den Rest elektrifizieren
 Im ländlichen Raum sollen Sharing-Angeboten bereitgesellt werden.
 Alle Fahrzeuge sollen möglichst schnell elektrisch angetrieben und aus dezentralen erneuerbaren-Energien-Anlagen gespeist werden.
 
@@ -79,7 +79,7 @@ Zulässige Höchstgeschwindigkeiten für PKW werden auf 120 km/h auf Autobahnen,
 Für ausgewählte innerörtliche Hauptverkehrsstraßen kann ein Tempolimit von 40 km/h eingerichtet werden.
 
 
-Flugverkehr
+## Flugverkehr
 Flüge bis zu 1000 km Entfernung erhalten grundsätzlich keine Start- und Landeerlaubnis mehr.
 
 Kerosin wird voll besteuert, was zur Reduktion des Flugverkehrs beitragen wird.
@@ -89,7 +89,7 @@ Privatflüge in gecharterten oder privaten Flugzeugen (ausgenommen Segelflugzeug
 Alternative Luftverkehrsmittel und neue Antriebskonzepte sollen verstärkt erforscht werden.
 
 
-Güterverkehr
+## Güterverkehr
 Der Güterverkehr wird weitgehend auf die Schiene und die Binnenschifffahrt verlagert.
 
 Unternehmen werden mit öffentlichen Mitteln darin unterstützt, ehemalige Gleisanschlüsse zu reaktivieren oder neue einzurichten.
@@ -102,7 +102,7 @@ Wir fordern ferner einen raschen Kapazitätsausbau des Schienennetzes, die Absch
 Der verbleibende LKW-Verkehr wird schnellstens elektrifiziert und wo das nicht möglich ist ebenso wie der Flug- und Schiffsverkehr mit fortschrittlichen synthetischen oder Biokraftstoffen aus Reststoffaufbereitung angetrieben.
 
 
-Schiffsverkehr
+## Schiffsverkehr
 Die Kreuzschifffahrt verursacht enorme Klima- und Umweltschäden für Alle zum Zwecke des Vergnügens Weniger.
 Sie wird eingestellt.
 

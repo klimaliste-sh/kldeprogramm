@@ -1,8 +1,8 @@
-Energie
+# Energie
 
 Die Transformation zu einer CO2-neutralen Energiegewinnung ist die Basis zur Erreichung unserer Klimaziele.
 
-Energiewende
+## Energiewende
 Allein die Energiewirtschaft, also die Bereitstellung von Elektrizität, verursachte 2020 30% der deutschen CO2-Emissionen[1].
 Damit Deutschland insgesamt klimaneutral wird, müssen allerdings auch der Verkehr und die Industrie auf Strom oder andere, klimaneutrale Energieträger umgestellt werden.
 Da die Herstellung klimaneutraler Energieträger wie grünem Wasserstoff sehr energieintensiv ist, dementsprechend also eine noch viel größere Menge erneuerbarer Energien zugebaut werden müsste, setzen wir uns dafür ein so viel wie möglich zu elektrifizieren.
@@ -25,13 +25,13 @@ Verbleibende Gasnachfrage soll dann durch synthetisches Gas ersetzt werden, soba
 Damit soll das ab 2022 bis zur Klimaneutralität erforderliche Kohlenstoffbudget des Stromnetzes auf unter 1 Gt CO2 beschränkt werden [4].
 
 
-Abschaffung von Kohle & Gas
+### Abschaffung von Kohle & Gas
 Die Prozesse, die mit dem höchsten Ausstoß von klimawirksamen Gasen verbunden sind, müssen zuerst ersetzt werden.
 Daher sind zuerst Kohlekraftwerke vom Netz zu nehmen, Erdgaskraftwerke danach, sobald sie durch erneuerbare Energien ersetzt werden können.
 Das kann je nach Szenario auch bedeuten, Gaskraftwerke mit synthetischem Erdgas als Teil einer Speicherlösung weiterzubetreiben.
 
 
-PV und Wind
+## PV und Wind
 Windenergie und Photovoltaik (PV) werden die beiden wichtigsten Säulen zukünftiger Energieversorgung sein.
 Eine ausgewogene Mischung zwischen Windkraft und Photovoltaik ist dabei notwendig, da so eine über die Tage wesentlich konstantere Stromversorgung sichergestellt werden kann.
 
@@ -41,7 +41,7 @@ Es soll dabei ein Gestaltungsspielraum geben, ob mehr Windenergie oder mehr PV g
 Für die Windenergie müssen Rahmenbedingungen für den notwendigen Ausbau geschaffen werden.
 
 
-Solarenergie
+### Solarenergie
 Langfristig gehören PV-Anlagen auf jedes geeignete Dach.
 Akut sollte der Ausbau von leicht realisierbaren PV-Freiflächenanlagen bevorzugt erfolgen.
 Zur Förderung des Einsatz von Solarenergie vorallem dezentral im Privaten Wohnsektor, muss der Erwerb und die Installation von PV-Anlagen erheblich erleichtert werden.
@@ -60,7 +60,7 @@ Außerdem setzen wir uns dafür ein, dass die nationale Direktzahlungen-Durchfü
 Diese Verordnung regelt die Auszahlung der EU-Direktzahlungen für primär landwirtschaftlich genutzte Flächen.
 
 
-Windenergie
+### Windenergie
 Die noch zusätzlich für den Ausbau der Windenergie notwendigen Vorranggebiete werden in den Regionalplänen des Landes Rheinland-Pfalz ausgewiesen.
 Als Ausgleichsmaßnahme werden vorwiegend weitere Naturschutzgebiete planerisch festgelegt.
 Bereits parallel zur Ausweisung von Vorranggebieten werden Vorprüfungen für die Genehmigung von Windkraftanlagen durchgeführt.
@@ -75,19 +75,19 @@ Alternativ kann ein Geschäftsanteil an der Anlage erworben oder ein Sparprodukt
 Diese  Maßnahme  erhöht  die  Akzeptanz  und  Zustimmung  der Bürger*innen für das Errichten weiterer Windkraftanlagen in unmittelbarer Nähe.
 
 
-Allgemeine Maßnahmen zur Förderung von Photovoltaik und Windkraft
+### Allgemeine Maßnahmen zur Förderung von Photovoltaik und Windkraft
 Aufbau und Förderung von Unternehmen, welche innerhalb Deutschlands Erneuerbare Energien-Anlagen herstellen.
 Damit werden auch Bedingungen für neue Arbeitsplätze geschaffen.
 Das Erneuerbare-Energien-Gesetz, als zentrales Steuerelement der Energiewende, muss so gestaltet werden, dass es eine maximale Förderung von Anlagen zur Gewinnung erneuerbarer Energien technologieoffen ermöglicht und fördert.
 Die Deckelung des Zubaus wird abgeschafft.
 
-Energiereduzierungsmaßnahmen
-Reduktion des Energieverbrauchs
+## Energiereduzierungsmaßnahmen
+### Reduktion des Energieverbrauchs
 Neben der umstellung des Energiesektors auf Erneuerbare Energien ist ein zweites anzustrebendes Ziel den Energieverbrauch in der Summe zu reduzieren.
 Dies steht auch im unmittelbaren Zusammenhang mit den notwendigen Transformationsprozessen in Gesellschaft und Wirtschaft.
 
 
-Netzausbau
+## Netzausbau
 Parallel zum Ausbau der erneuerbaren Energien und Reduzierung/Abschaffung fossiler Energien müssen die Versorgungs- und Übertragungsnetze in Deutschland und europaweit angepasst werden.
 
 Der bisherige Netzausbauplan der Bundesnetzagentur berücksichtigt das Szenario einer 100%igen Versorgung im EE nur teilweise.
@@ -107,7 +107,7 @@ Anpassung der garantierten Umsatzrenditen für Netzbetreiber an marktübliche Re
 Verstaatlichung der Übertragungsnetze (???)
 
 
-Speichertechnologie
+## Speichertechnologie
 
 Die Entwicklung und Ausbau von Speichertechnologien ist essentiell beim breiten Einsatz erneuerbarer Energien.
 Sonnenlicht und Wind sind volatil und lassen sich nicht speichern und bedarfsgerecht abrufen.
@@ -123,7 +123,7 @@ Wärme aus Sonnenlicht und Prozesswärme aus Biomasseanlagen (Klärwerke, Fault�
 Die Verteilung erneuerbarer Energie über größere Distanzen kann die Menge erforderlicher Speicher reduzieren.
 Der Aus- bzw. Umbau der Stromnetze ist eine der dringlichsten Herausforderungen der Energiewende und darf auf keinen Fall verzögert werden - etwa durch Debatten um unrealistische Erdverkabelung über weite Strecken.
 
-Sektorenkopplung
+## Sektorenkopplung
 Essentiell für das gelingen der Energiewende ist eine intelligente Verknüpfung der Sektoren.
 So können Stromspitzen beispielsweise genutzt werden um Kühlregale in Supermärkten oder Weinkeller etwas mehr zu kühlen.
 Wenn weniger Strom zur Verfügung steht, kann die Kühlung dann gedrosselt werden, sodass der Strombedarf sinkt.
@@ -135,7 +135,7 @@ Insbesondere müssen alle E-Autos eine standardisierte Schnittstelle für ein bi
 Damit das bidirektionale Laden (laden & entladen) an jeder Ladesäule funktioniert muss als Standard für E-Autos gelten, dass sie mit Wechselstrom geladen werden und den Standard ISO/DIS 15118-20 erfüllen.
 
 
-Atomenergie
+## Atomenergie
 Wir lehnen Kernkraft zur Energiegewinnung grundsätzlich ab.
 Trotz der Sicherheitsbekundungem kam es in Tschernobyl und Fukushima zu erschütternden Unfällen.
 Darüber hinaus ist die Endlagerfrage immer noch nicht geklärt – genau wie die Klimakrise selbst ist Atomkraft eine Bürde, die die nachfolgenden Generationen zu tragen haben werden.
@@ -150,7 +150,7 @@ Der für die Energiewende erforderliche Zubau von Windenergie und PV wird so gro
 Wir konzentrieren uns auf dieses nachhaltige Ziel, statt Geld für teure Notlösungen zu verplempern.
 
 
-Akzeptanz
+## Akzeptanz
 Der Ausbau von Windkraft, Photovoltaik, Solarthermie und Biomasseanlagen sowie der benötigten Netze und Speichertechnologien stagniert in Deutschland seit Jahren.
 Union, Wirtschaftsverbände aber auch Umwelt- und Bürgerinitiativen verhindern oft den Bau neuer Anlagen.
 Die Bau- und Raumordnungsverfahren müssen daher in Abstimmung mit den betroffenen Interessengruppen neu ausgerichtet werden.
