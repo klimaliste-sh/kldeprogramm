@@ -31,10 +31,7 @@ Menschen mit niedrigem Einkommen werden von der direkten finanziellen Auszahlung
 
 Da eine rein marktwirtschaftliche Regelung nicht ausreichen bzw. zu anderen Problemen führen wird, sehen wir viele konkrete Maßnahmen vor.
 Diese sind zumeist sektorspezifisch und werden an die Einhaltung bzw. Überschreitung der angesetzten Reduktionspfade jedes Sektors gekoppelt.
-[Grafik]
+[GrafikWirtschaftRegelung]
 
 Naturräume sowie die Heimat von Menschen dürfen nicht weiter durch den Abbau fossiler Energieträger (wie z.B. im Rheinischen Revier oder in der Lausitz) zerstört werden.
 Klimaschädliche Maßnahmen wie der Bau von nicht zukunftsfähiger Verkehrsinfrastruktur oder fossilen Subventionen müssen umgehend gestoppt werden.
-
-Quelle:
-[Grafik]: https://klimaliste-darmstadt-dieburg.de/?/sites/btw21.html#energiewende
