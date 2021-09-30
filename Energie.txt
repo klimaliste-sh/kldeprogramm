@@ -22,8 +22,9 @@ Wir haben in Deutschland genug Potential an Photovoltaik und Windkraft um diese 
 Zuerst wird damit die Kohleenergie aus dem Stromnetz verdrängt, während Gaskraftwerke weiter Regelleistung liefern, um Ausfälle der erneuerbaren Energien auszugleichen.
 Der Verbrauch von Biogas soll dabei nicht weiter steigen und der Verbrauch von Erdgas durch zunehmende Anpassung der Stromnachfrage an die Verfügbarkeit erneuerbarer Energien gedeckelt werden.
 Verbleibende Gasnachfrage soll dann durch synthetisches Gas ersetzt werden, sobald erneuerbare Energien zeitweise Überschüsse abwerfen.
-Damit soll das ab 2022 bis zur Klimaneutralität erforderliche Kohlenstoffbudget des Stromnetzes auf unter 1 Gt CO2 beschränkt werden [4].
+Damit soll das ab 2022 bis zur Klimaneutralität erforderliche Kohlenstoffbudget des Stromnetzes auf unter 1 Gt CO2 beschränkt werden.
 
+[simulation]
 
 ### Abschaffung von Kohle & Gas
 Die Prozesse, die mit dem höchsten Ausstoß von klimawirksamen Gasen verbunden sind, müssen zuerst ersetzt werden.
@@ -164,7 +165,6 @@ Quellen:
 [1]: https://www.bmu.de/pressemitteilung/treibhausgasemissionen-sinken-2020-um-87-prozent/
 [2]: https://www.diw.de/de/diw_01.c.821878.de/publikationen/wochenberichte/2021_29_1/100_prozent_erneuerbare_energien_fuer_deutschland__koordinierte_ausbauplanung_notwendig.html
 [3]: ISE: Wege zu einem klimaneutralen Energiesystem
-[4]: https://klimaliste-darmstadt-dieburg.de/?/sites/btw21.html#energiewende
 [5]: Zitat https://www.diw.de/de/diw_01.c.821878.de/publikationen/wochenberichte/2021_29_1/100_prozent_erneuerbare_energien_fuer_deutschland__koordinierte_ausbauplanung_notwendig.html
 [6]: https://static.agora-energiewende.de/fileadmin/Projekte/2014/transparente-energiewirtschaft/Agora_Netzentgelte_2019.pdf
 
