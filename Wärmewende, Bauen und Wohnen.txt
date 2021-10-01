@@ -1,0 +1,202 @@
+# Wärmewende, Bauen & Wohnen
+Die Erzeugung von Wärme und Kälte verursacht heute gut die Hälfte des gesamten Endenergieverbrauchs in Deutschland.
+Gleichzeitig verursachen Bau und Betrieb von Gebäuden in Deutschland ca. 40 % des CO2-Ausstoßes, 52 % unseres Müllaufkommens und verbrauchen 90 % der mineralischen, nicht nachwachsenden Rohstoffe in der Baustoffproduktion.
+Verbrauch und Kosten gingen in den vergangenen Jahren trotz verbesserter Förderung und höherer Gebäude-Standards im Neubau kaum zurück (UBA 2021).
+Daher sind vor dem Hintergrund eines notwendig ambitionierten Klimaschutzes nun erhebliche Anstrengungen bei der Wärmeversorgung und den Bauvorschriften notwendig.
+Diese Aufgabe allein der privaten Initiative zu überlassen, hat sich als nicht ausreichend erwiesen.
+Es bedarf stattdessen einer umfassenden Anpassung der Bebauungsvorschriften, verbindlich regulatorischer gesetzlicher Vorgaben und einer kommunalen Bau- und Wärmeplanung, die den Zielen des Pariser Klimaabkommens entspricht.
+Es ist weiterhin nicht zu erwarten, das die notwendige Wärme alleine aus Strom über Wärmetauscher zur Verfügung gestellt werden kann.
+Dies erfordert den Einsatz von Solar- und geothermischen Verfahren sowie Biomasse Kraftwerke.
+
+## Dekarbonisierung der privaten Wärmeversorgung
+- Ablösung von Heizöl und Erdgas durch Wärmepumpen und erneuerbare Fernwärme
+- Verschärfung der Nachrüstpflicht für alte Heiztechnik
+- Ausweitung des Verbots auf Gaskessel
+- Reform der Abgaben, Steuern und Umlagen für Wärmepumpenstrom
+- sozialverträgliche Förderung durch gebäudeindividuelle Sanierung (iSFP)
+- Begrenzung der Umlagefähigkeit von energetischen Sanierungsmaßnahmen auf Mietende
+- Begrenzung der Umlagefähigkeit der CO2-Bepreisung als Modernisierungsanreiz
+
+## Strategische Wärmeplanung auf kommunaler Ebene
+Den Kommunen fällt bei der Umsetzung der Wärmewende eine zentrale Rolle zu.
+Im Rahmen eines national festgelegten Gesamt-Entwicklungsplans, der sich aus den THG-Minderungszielen ergibt, werden die Kommunen zu einer strategischen Wärmeplanung verpflichtet.
+Gleichzeitig erhalten sie dazu weitreichende Befugnisse
+- Erstellung einer Wärmeplanung für Neubauten und Bestand
+- (Re)Kommunalisierung bestehender Wärmenetze mit angemessener Entschädigung
+- Anschluss- und Benutzungszwänge für Anlieger
+- Festlegung von Vorranggebieten für den Nah-/Fernwärmeausbau oder die Gebäudesanierung- Flächensicherung für saisonale Wärmespeicher
+- Flächenmanagement für thermische Bodennutzung (Geothermie)
+- Festlegung von Rückzugsgebieten von Gasnetzen.
+Über Bebauungspläne kann die Kommune zukünftig Vorgaben über- den Gebäudenergiebedarf (auch im Gebäudebestand)
+- Anteil an erneuerbaren Energien bei der Wärmeversorgung (auch im Gebäudebestand)
+- Anschluss- und Benutzungszwang an Wärmenetze und kommunaler Wäremspeicher (auch im Gebäudebestand)
+- Festsetzung von Verbrennungsverbotbestimmungen.
+
+## Aufbau einer dezentralen, kommunalen Wärmeversorgung (Local District Heating)
+Kleine und mittlere Kommunen können mit Nahwärmenetzen aus regenerativen Energien klimafreundlich und unabhängig versorgt werden Im Nachbarland Dänemark werden inzwischen 65% der Bevölkerung mit Nah- oder Fernwärmesystemen versorgt (Kopenhagen 98%).
+Diese Wärmeversorgung unterliegt eine gesetzlich garantierten Non-Profit Regulierung
+- Nahwärmenetze sind flexibel und ermöglichen eine dezentrale und multivalente Wärmeversorgung.
+Neue Wärmeerzeuger können modular integriert werden
+- Freiflächen-Solarthermie und Erdwärmespeicher können einen jährlichen Deckungsgrad 50% gewährleisten (Heizungs- und Wärmebedarf von März bis November)
+- Biomasseanlagen (Biogas aus Gülle, Mist und Biomasse) können die Grundlastversorgung in der kalten Jahreszeit gewährleisten.
+Übergangsweise können Hackschnitzel- oder Stroh
+- Flächen-/Tiefen-Geothermie kann in geeigneten Gebieten einen wichtigen Beitrag leisten (Süddeutschland)
+- Der Betrieb wird durch lokale, nicht gewinn-orientierte Energiegenossenschaften gewährleistet.
+Dadurch entfällt die Abhängigkeit von überregionalen EV mit teuren Netzen.
+Das Geld bleibt zudem in der Gemeinde und sorgt für eine lokale Wertschöpfung
+
+## Ausbau und Dekarbonisierung der Städteversorgung (Fernwärme)
+Die Wärmewende erfordert besonders in Städten einen Ausbau der Wärmenetzinfrastruktur.
+Sie ermöglicht die modulare Integration von Abwärme aus diversen Quellen
+
+- Abwärme aus Industrie
+- Abwärme aus Müllverbrennung
+- Wärme aus geothermischer Nutzung
+- Wärme aus Biomasse Reaktoren (Faultürme, Gülle/Mist, Pflanzen- und Abfallvergärung)
+- Wärme aus Freiflächen Solarthermie
+- Wärme aus Erdbecken-Wärmespeichern
+
+Die Förderung von Wärmenetzen wird stark erweitert und umstrukturiert, gleichzeitig werden bestehende Hemmnisse abgebaut:
+- Änderung der WärmeLV, die fossile Energien subventioniert.
+- Regulierung der Fernwärmepreise nach dänischem Vorbild (Non-Profit Modell)
+- Förderung dezentraler Wärmegenossenschaften
+- Biogasanlagen im landwirtschaftlichen Bereich werden an energetische und ökologische Vorgaben gebunden: Errichtung nur noch in Ortsnähe mit Anbindung an ein Wärmenetz, Verbot umweltschädlicher Energieträger wie glyphosatgestützer Maisanbau, keine Unterstützung von Massentierhaltung
+- Anpassung der Förderhöchstsätze und Streichung von absoluten Obergrenzen, mögliche Förderung von 100%
+
+## Wärmespeicher
+Es gibt ganzjährig verfügbare Wärmequellen (Wärme aus MVA, Industrieabwärme) und saisonal verfügbare Quellen wie Solarthermie.
+Saisonale Wärmespeicher ermöglichen die Synchronisierung sämtlicher regenerativer Wärmequellen mit dem tatsächlichen Wärmebedarf.
+(Nähere Ausführung im Bereich Energie)
+
+
+# Neubau & Sanierung
+Den aktuellen Gebäudebestand hin zur Klimaneutralität umzubauen ist eine der größten Herausforderungen des Klimaschutzes, sowohl finanziell als auch in der praktischen Umsetzung.
+Auf der anderen Seite weist der
+Gebäudesektor ein vielfach nicht ausgeschöpftes Potenzial für die Energiewende, Klimawandelanpassung, Effizienzsteigerungen und Biodiversität auf.
+Die Studie des Wuppertal Instituts im Auftrag der Fridays for Future-Bewegung legt nahe, wie die Wärmeversorgung in Deutschland mit einer durchschnittlichen jährlichen Sanierungsrate von 4 % bis 2035 klimaneutral   umgestaltet   werden   kann.
+Dafür   ist   politischer   Wille erforderlich, der die Probleme bei der Wurzel packt und umsetzt.
+Denn eine umfassende Transformation des Gebäudesektors ist zwingend nötig, um das 1,5-Grad-Ziel zu erreichen.
+
+Generell ist bei Baumaßnahmen zu beachten:
+Klimagerechtes bauen bedeutet das Architektur vor Einsatz von Technik steht.
+Haustechnik sind Energie- und Wartungsintensive Baueinheiten.
+Architektonische Lösungen zum kühlen, wärmen oder isolieren der Gebäude müssen bevorzugt werden.
+Energieverbrauch durch Kühlung dem Einsatz von Klimaanlagen und vorallem der Gewerbe und Büroräume.
+Bauen auch unter dem Aspekt der Kühlung der Gebäude im Sommer ohne Energieeinsatz.
+Neubauten und Sanierung sind bei der Baugenehmigungsvergabe auch einer Klimagerechten Wertung zu unterziehen.
+Punkte wie CO2-Bilanz des Baumaterials, Energieversorgung und eventuell Energiespeicherung, speichern und wiederverwertung von Regen- und Brauchwasser sind im Baugenehmigungsverfahren zu berücksichtigen.
+Bevorzugt Regionale Baustoffe.
+Baustoffe und ihr Einsatz muss weitgehendst Sortenrein sein und auch bei Abriss, Rückbau oder Umbaumaßnahmen leicht voneinander zu trennen sein.
+Baustoffe sollen so im Bau eingesetzt werden das Sie auch bei einem Abriss einer Wiederverwertung zugeführt werden können (Kreislaufwirtschaft).
+
+
+## Klimaneutralität im Neubau
+Alle Neubauten müssen eine Ökobilanz von mindestens Netto-Null aufweisen.
+Der über den gesamten Lebenszyklus verursachte CO2-Ausstoß muss demzufolge durch die Bauvorhabenträger*innen mit ökologischen Maßnahmen auf dem Grundstück kompensiert werden.
+Als Grundlage für diese notwendige Maßnahme wird eine Ökobilanz erstellt.
+Ein Punktesystem erfasst ganzheitlich die bei der Materialherstellung, den  Bauprozessen, dem Gebäudebetrieb und bei den Rückbau, sowie Verwertungsmaßnahmen entstehenden CO2-Äquivalente.
+Mithilfe der Ökobilanz wird der gesamte Lebenszyklus des Gebäudes abgebildet.
+Die Verwendung eigener, erneuerbarer Energieträger und der Einbau erneuerbarer Baustoffe, die bei einem späteren Rückbau der Verwertung zugeführt werden können, wird konsequent gefördert (Konsistenz).
+Um eine Nullbilanz im Gebäudebetrieb zu erreichen, müssen die Bauvorhabenträger*innen den Energiebedarf minimieren (Effizienz) und konsequent mit eigenen, erneuerbaren Energien decken.
+Zudem wird der Anreiz geschaffen, ein Gebäude möglichst bedarfsgerecht und somit kompakt zu errichten (Suffizienz).
+Mit der Bilanzierung wird sichergestellt, dass klimaschädliches Handeln auf das notwendige Minimum reduziert wird und Eingriffe, die zu CO2-Emissionen führen, auf dem Grundstück ausgeglichen werden.
+Kann keine Netto-Null-Bilanz erzielt werden und sind Kompensationsmaßnahmen auf dem Grundstück technisch nicht umsetzbar oder wirtschaftlich nicht zumutbar, so muss eine einmalige Kompensationszahlung entrichtet werden.
+Die Kosten pro CO2-Äquivalent sind gesetzlich so festzulegen, dass eine nachhaltige Bauweise die Bauvorhabenträger*innen im Regelfall ökonomisch deutlich  besser stellt.
+Die durch die Kompensationszahlung generierten Einnahmen sind zweckgebunden an  landeseigene CO2-Kompensationsmaßnahmen und werden diesen zugeführt.
+Um eine Messbarkeit und Quantifizierbarkeit der im Gebäude verbauten Baustoffe sowie des voraussichtlichen Energieverbrauchs sicherzustellen, sind alle Baugenehmigungen digital mit einer Bauwerksdatenmodellierung bei den entsprechenden Stellen einzureichen.
+Mit der Digitalisierung der Baugenehmigungen kann neben der  Berechnung der Ökobilanz auch die Archivierung, Bearbeitung und Prüfung aller Anträge effizienter und schneller umgesetzt werden.
+
+## Solarpflicht bei Neubau
+Für alle Neubauten wird eine Solarpflicht eingeführt.
+Wird über eine Ökobilanzierung  des geplanten Gebäudes eine Klimaneutralität auch ohne die Installation von Solaranlagen nachgewiesen,  so kann  eine  Befreiung von der Pflicht erteilt werden.
+Die Maßnahme dient vor allem als Übergang zur umfassenden Einführung des digitalen Bauantrags mit der daran geknüpften Ökobilanzierung.
+Für eine Solarpflicht gilt es ein geeignetes Finanzierungstool zu entwickeln für den Fall, dass der Kreditrahmen bereits ausgeschöpft ist.
+
+
+## Mobilitätsangebot beim Neubau
+Die Pflicht zum Errichten von PKW-Stellplätzen in der Landesbauordnung wird außer Kraft gesetzt.
+Damit entfallen die Zahlungen für nicht errichtete Stellplätze.
+Um nachhaltige  Mobilität zu fördern, werden  stattdessen nachhaltige Mobilitätsangebote (Fahrrad-Stellplätze, ÖPNV-Angebote, Electro-car-sharing) an den Neubau  gebunden
+
+
+## Klimaneutralität bei Sanierung
+Für einen Teil der Bestandsgebäude sollen ökologische Ausgleichsmaßnahmen erbracht werden.
+Wird Eigentum   an einem Gebäude erworben, so ist auch hier für alle baulichen Maßnahmen sowie für den Gebäudebetrieb die Klimaneutralität sicherzustellen.
+Die Vorschriften entsprechend der Ökobilanzierung finden so für alle Aus- und Umbauten im Bestand Anwendung.
+Zudem ist ein Sanierungsfahrplan zu erstellen, in dem über einen festzulegenden Zeitraum energetische Maßnahmen zur Effizienzsteigerung aufgelistet sind.
+Bei der Förderung von Sanierung der Bestandsimmobilien muss dringend nach gesteuert werden und es müssen weitere Anreize geschaffen werden.
+Generell muss der Bestandsumbau den Neubau überwiegen.
+Hier zu muss die  Bestandssanierung stärker als bisher gefördert werden.
+
+## Energetische Sanierung von Liegenschaften
+Mit dem Ziel, einen klimaneutralen landeseigenen Gebäudebestand bis 2026 zu schaffen, werden die landeseigenen Liegenschaften mit einem Anteil von mindestens 20 % jährlich energetisch saniert.
+Hierbei werden geeignete Dach- und Fassadenflächen mit Solarmodulen versehen.
+Zudem werden alle Liegenschaften umgehend auf Ökostrom umgestellt.
+Es kann wahlweise Photovoltaik oder Solarthermie genutzt werden.
+Beide Technologien erfüllen gleichermaßen die Solarpflicht.
+Sonderprämie bei Solar plus integriertem Gründach.
+Weitere Sonderprämie bei Kopplung PV mit Wärmepumpe um lokal direkt genutzten Anteil der Solarstrom zu erhöhen.
+Die positiven Ergebnisse aus dem Sanierungsumbau werden an die Öffentlichkeit getragen und vor Ort sichtbar gemacht.
+Kommunen werden bei der energetischen Sanierung ihrer eigenen Liegenschaften sowohl
+finanziell als auch organisatorisch durch das Landes- und Bundesförderprogrammen unterstützt.
+
+Generell bei öffentlichen Bauvorhaben sollten folgende Punkte beachtet werden:
+- Alle kommunalen Gebäude sind in einer grundlegenden Prüfung darauf zu untersuchen, ob die Installation von Solarwärme machbar ist.
+- Zu prüfen ist weiterhin die Umstellung auf Wärmepumpen, die Ausstattung einer besseren Dämmung und die Installation eines Brauchwassersystems mit entsprechenden Zisternen.
+- Spätestens bis 2030 sind alle kommunalen Gebäude auf diese Systeme umzurüsten.
+
+Alle öffentlichen Ausschreibungen müssen einen zu erarbeitenden Kriterienkatalog zur Klimaneutralität erfüllen.
+Vergabe nach Sozialen und Ökologischen Kriterien[2]
+
+# Klimagerechter Städteplanung
+Gerade der Städtische Raum entwickelt ein eigenes Mikroklima.
+Aufgrund der Klimakrise ist mit einer zunehmender Hitze und  Stauhitze im städtischen Raum zu erwarten.
+Eine Umgestaltung des Städischen Raum unter den sich verändernden klimatischen Verhältnissen ist daher dringend notwendig.
+Dahingehend ist im Bezug auf eine klimagerechte Stadtplanung eine Entsiegelung des Stadtraums und das schaffen von Grünflächen notwendig.
+Die durch Verschattung und Etsiegelung geschaffenen Verdunstungsflächen tragen zu einer Abkühlung des Stadtraums bei und schaffen eine Stadt mit lebenswerten Aussenräumen.
+
+## Klimagerechte Stadt
+Aufgrund zunehmender Wetterextreme, wie Starkregen und langanhaltende Hitzewellen, muss auch die Stadtplanung darauf reagieren.
+Um Starkregenereignissen zu begegnen sind Voluminöse Rückhaltebecken zu schaffen welche große Mengen an Wasser auffangen können.
+Die Rückhaltebecken dienen gleichzeitig als Wasser-Zisternen welche das Wasser Speichern und für lange Hitzephasen zurückhalten.
+Nachverdichtung von Grünflächen mit Bäumen.
+Parkanlagen mit großen Raßenflächen stellen in Hitzesommern keine Qualität da und beschleunigen die Verdunstung.
+Durch Nachpflanzungen von Bäumen auf diesen Flächen wir Kühlung erreicht und die Verdunstung verringert.
+
+## Stadt, Verkehr, Flächenentsiegelung
+Eine autoarme Stadt ist Grundlage einer klimagerechten Stadt.
+Die durch den Wegfall der Individualverkehrs frei werdenden Flächen werden dringend gebraucht.
+Diese Flächen müssen großteils wieder entsiegelt werden.
+(Genaueres zur Verkehrspolitik: siehe Themenabschnitt "Verkehr")
+Die Entsiegelung der Flächen des Personen Individual Verkehrs (PIV), wie Parkplätze und Teile der Verkehrsflächen führt zu einer Hitzereduzierung im Städtischen Raum.
+Die wegfallenden Asphaltflächen können nicht mehr Hitze speichern und als entsiegelte Fläche durch Verdunstung zur Kühlung beitragen.
+Eine Begrünung der entsiegelten Flächen vorallem mit Bäumen ist Notwendig um durch Verschattung Kühle auch im Straßenraum zu erzeugen.
+Bauprojekte und neue Bauvorhaben müssen unter dem Aspekt der Nachhaltigkeit auf Flächenverbrauch und der Alternative durch Umnutzung überprüft werden.
+Aufstockungsmöglichkeiten von Bestandsgebäuden im Städtischen Raum sind zu überprüfen und Neubauten mit Flächenversiegelung vozuziehen.
+Umnutzung von Bestandsgebäuden und Flächen muss bevorzugt werden und in den Kosten günstiger werden als Neubau.
+
+
+# Recht auf Wohnen
+Aus unserer Sicht ist die soziale und ökonomische Komponente im Bereich Wohnen nicht zu vernachlässigen.
+Gerade die Spekulation und Kommerzialisierung von Wohnraum führt in letzter Konsequenz zu ökologischen Problemen.
+Besetzten von Wohnraum durch große Unternehmen, Verdrängung von Menschen in die Außenbezirke und die dadurch einhergehende Flächenversiegelung und erhöhte Anfahrtswege, sind neben der ökonomischen und psychologischen Belastung der Menschen ein großes Problem.
+Eine sinnvolle und ökologische Wohnungspolitik kann nur durch eine starke Einbindung von staatlichen Strukturen und durch eine demokratische Mitbestimmung der Menschen erfolgen.
+Wohnen ist ein Menschenrecht und muss dem Markt und Profit entzogen werden.
+Wir wollen Wohnungen zurück in die öffentliche Hand bringen.
+In erster Linie Kommunen, aber auch Genossenschaften und Mietergemeinschaften wollen wir den Rückkauf von Wohnungen ermöglichen und durch die öffentliche Hand fördern.
+Dafür soll ein Re-Kommunalisierungsfonds aufgelegt und ein kommunales Vorkaufsrecht gestärkt werden.
+Das Recht auf Wohnen muss in einer so reichen Gesellschaft wie unserer als Grundrecht im Grundgesetz verankert werden.
+* Das eindeutige Ziel muss es sein Wohnungen für Alle zur Verfügung zustellen.
+Eine Zwangsräumung in die Obdachlosigkeit muss gesetzlich ausgeschlossen werden.
+Auch ist quantifizierte Ermittlung der Wohnungslosigkeit imminent, um diesen Mistand zu beheben.
+Die aus der Ermittlung gewonnen Daten mussen öffentlich zugänglich gemacht werden.
+Wir wollen ein Gesamtkonzept gegen Wohnungs- und Obdachlosigkeit zusammen mit Verbänden und Initiativen erstellen und die daraus entstehnde Projekte wie Housing First unbefristet fördern.
+Um rasant steigenden Mieten entgegen zu wirken brauchen wir eine echte Mietpreisbremse, die flächendeckend, unbefristet und ausnahmslos gilt.
+
+
+# Quellen
+[1] Agenda Wärmewende 2021, Öko-Institut e.V und Hamburg Instituthttps://www.stiftung-klima.de/app/uploads/2021/06/2021-06-10-Waermewende-2021.pdf
+[2] https://www.bwb.de/de/assets/downloads/Berliner_Ausschreibung_Vergabegesetz_2012_06_17.pdf
+[3] https://www.boeckler.de/de/boeckler-impuls-unbezahlbare-mieten-4100.htm
+
+

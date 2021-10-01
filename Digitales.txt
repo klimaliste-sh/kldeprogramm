@@ -1,0 +1,51 @@
+# Digitales
+
+## Nachhaltigkeit von Hardware, Software und Kommunikationsinfrastruktur (Siehe 4.2)
+Hardware bildet eine Produktgruppe mit einem hohen Müllaufkommen aufgrund von bislang schwer recyclebaren Komponenten.
+Die längere Nutzbarkeit muss durch Regelungen wie Recht auf Reparatur gewährleistet werden.
+Auch die Ressourcen- und Energieeffizienz von Softwareprodukten muss durch entsprechende Zertifizierungen, verpflichtende Verlängerung des Support oder die Förderung von individuell erweiterbaren Open-Source-Produkten erhöht werden.
+
+## Flächendeckender Breitbandausbau
+Die Bereitstellung des Netzzuganges gehört heute zur essenziellen Infrastruktur und muss als solche öffentlich gewährleistet und kontrolliert werden.
+
+## Gewährleistung eines uneingeschränkten Zugang / Netzneutralität
+Netzneutralität ist wichtig, für den Datenschutz, und für die gleichbehandlung, aller Netzteilnehmer.
+
+## Mit Steuergeld finanzierte Software muss Open Source sein
+Große Softwarekonzerne haben für viele digitale Produkte nahezu eine Monopolstellung, die Verwendung und die Sicherheit der Daten sind oftmals intransparent.
+Wir streben für Verwaltungsbehörden, öffentliche Einrichtungen und Bildungsinstitutionen die Nutzung und Entwicklung freier, quelloffener Software (Open Source) als Grundpfeiler zur Gewährleistung der digitalen Souveränität ein.
+
+## Digitalisierung der Verwaltung und Bürgerbeteiligung
+Digitalisierung der Verwaltung können Steuerung von Verwaltungsprozessen erleichtert und beschleunigt werden und für Bürger:innen transparent und leichter zugänglich werden.
+Öffentlich erhobene Daten sollen der Bevölkerung datenschutzkonform als Open-Data/Open Access digital zur Verfügung gestellt werden und frei nutzbar sein.
+Ein entsprechendes Konzept zum E-Government und Open-Government soll unter kontinuierlicher Riskobewertung vorangebracht werden.
+Auf die Verknüpfungstabellen der Datenbanken der unterschiedlichen Behörden darf nur der Bürger nicht der Staat zugriff haben, um den Datenschutz zu gewährleisten.
+
+## Medienkompetenz
+Auf Seiten sowohl der Bürger:innen als auch der Politik ist der Aufbau von Wissen über digitale Strukturen und Funktionen sowie Kompetenz in Bezug auf deren Nutzung  erforderlich.
+Hierfür müssen der Erwerb von Kompetenzen im Umgang nicht nur mit digitalen Medien, die Entwicklung der Fähigkeit zur Prüfung von Fakten und Quellen, Nutzung sozialer Netze, Datenschutz bereits in schulische Ausbildung integriert und für Erwachsene Weiterbildungsmöglichkeiten geschaffen werden.
+
+## Ministerium für Digitalisierung
+Die Digitalisierung umfasst inzwischen praktisch alle Lebensbereiche.
+Über die Informationsübermittlung und -verarbeitung, die Etablierung digitaler Technologien in der Wirtschaft hinaus erfolgt eine bislang weitgehend unreflektierte Durchdringung auch politischer Kommunikationsprozesse und privater Lebensbereiche.
+Durch die Bündelung von Kompetenzen in einem eigenen ministeriellen Verantwortungsbereich sollen Fragen des Datenschutzes und der Persönlichkeitsrechte, der digitalen Überwachung, der Sicherheit von Verwaltungsprozessen und Versorgungsstrukturen sowie des gleichberechtigten Zugangs zur digitalen Infrastruktur bei der Ausgestaltung von Digitalisierungsprozessen Vorrangstellung erhalten.
+
+## Verhinderung der Implementierung von Überwachungstechnologien
+Die Klimaliste setzt sich für Datensparsamkeit auf regionaler und überregionaler Ebene ein.
+Die Datensparsamkeit schließt die Verwendung von "Staatstrojanern", Uploadfiltern oder Zero Day Exploits aus.
+Außerdem darf Klimagerechtigkeit nicht in der Etablierung überwachungstaatlicher Mechanismen münden.
+
+## Kryptowährung
+Es ist notwendig, energieschonende Alternativen zum direkten Handeln von Cryptowährungen wie z.B. Bitcoin zu entwickeln, da Verbote hier weder technisch durchführbar noch zielführend scheinen.
+Außerdem soll Bargeld als alternative anonyme Währung erhalten werden, um Kryptowährung die Attraktivität zu nehmen.
+
+Betrachtet man Cryptowährungen als Gold das man mal als Zahlungsmittel genutzt hat, so wäre eine Art Banknote zu entwickeln die als Schuldscheine für dieses Gold dienen kann.
+Denn auch Gold war für den täglichen Einsatz zu umständlich.
+Die Bitcoins wären dann das Equivalent zur Goldreserve, das im Tressor liegt, um den Wert der Banknoten abzusichern.
+Diese zweite Ebene der Banknoten, wäre als energiearmer Transfer möglich, weil es nur noch verschlüsselte Informationen sind.
+Jetzt hätte man eventuell das Vertrauensproblem dem Akteur gegenüber der als Bank diese Goldreserven verwalten muss.
+Wenn dieser Akteur eine Open Source Software ist, die diese Bankgeschäfte erledigt, könnte man dem Code vertrauen, statt Menschen, und seine Bankgeschäfte auch anonym abwickeln.
+
+Menschen brauchen aus Datenschutzgründen eine anonyme Form der Bezahlung.
+Bargeld hat zusätzlich auch noch den Vorteil, dass es negativ-Zinsen verhindert und man die Kontrolle über sein Geld nicht verlieren kann.
+
