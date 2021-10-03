@@ -49,11 +49,11 @@ Zum einen werden Moore trockengelegt, um die Böden landwirtschaftlich zu nutzen
 Über ein Drittel der Treibhausgas-Emissionen aus der Landwirtschaft stammen von trockengelegten Feuchtgebieten [7].
 Moore müssen wieder zu echten Klimaschützern werden.
 Dafür wollen wir folgende Maßnahmen umsetzen:
-· Sofortiger Stopp jeglichen Torfabbaus.
-· Importverbot torfhaltiger Produkte.
-· Förderung der Forschung und Suche nach Alternativen für Torf.
-· Unterschutzstellung sämtlicher intakter Moorflächen.
-· Großflächiges Wiedervernässungsprogramm.
+- Sofortiger Stopp jeglichen Torfabbaus.
+- Importverbot torfhaltiger Produkte.
+- Förderung der Forschung und Suche nach Alternativen für Torf.
+- Unterschutzstellung sämtlicher intakter Moorflächen.
+- Großflächiges Wiedervernässungsprogramm.
 
 
 Die Wiedervernässung von Mooren ist der einzige Weg, um weitere ungehinderte Treibhausgas-Emissionen zu verhindern.
@@ -70,12 +70,12 @@ Von den Flächen, die für Siedlung und Verkehr verbraucht werden, sind ca. 45% 
 Wichtige Bodenfunktionen, wie Wasserdurchlässigkeit, Gasaustausch mit der Atmosphäre (gesunde Böden können sehr viel CO2 aufnehmen und speichern) und Bodenfruchtbarkeit, gehen damit verloren.
 Dieser Flächenverbrauch muss endlich wirksam gestoppt werden.
 Deshalb wollen wir folgende Maßnahmen umsetzen:
-· Bis 2030 ist der Flächenverbrauch auf 0 ha zu reduzieren.
-· Neubauten dürfen nur noch auf bereits bestehenden Siedlungs- und Verkehrsflächen entstehen.
-· Bestehende Siedlungs- und Verkehrsflächen sollen effektiver genutzt werden.
-· Eine nachhaltige Siedlungsentwicklung muss flächendeckend eingehalten werden (z.B. Prinzip „Innen vor Außen“).
-· Nicht mehr benötigte Siedlungs- und Verkehrsflächen müssen entsiegelt/renaturiert werden.
-· Einführung einer Flächenverbrauchssteuer, die eine Weiterentwicklung der Grunderwerbssteuer darstellt. Damit werden Anreize geschaffen, weniger Fläche zu bebauen, und eher bestehende Baulücken in Siedlungen zu nutzen anstatt neue Baugebiete in der Natur zu erschließen [18].
+- Bis 2030 ist der Flächenverbrauch auf 0 ha zu reduzieren.
+- Neubauten dürfen nur noch auf bereits bestehenden Siedlungs- und Verkehrsflächen entstehen.
+- Bestehende Siedlungs- und Verkehrsflächen sollen effektiver genutzt werden.
+- Eine nachhaltige Siedlungsentwicklung muss flächendeckend eingehalten werden (z.B. Prinzip „Innen vor Außen“).
+- Nicht mehr benötigte Siedlungs- und Verkehrsflächen müssen entsiegelt/renaturiert werden.
+- Einführung einer Flächenverbrauchssteuer, die eine Weiterentwicklung der Grunderwerbssteuer darstellt. Damit werden Anreize geschaffen, weniger Fläche zu bebauen, und eher bestehende Baulücken in Siedlungen zu nutzen anstatt neue Baugebiete in der Natur zu erschließen [18].
 
 
 ### Artenvielfalt und natürliche Lebensräume erhalten
@@ -88,24 +88,24 @@ Landwirtschaft, Entwaldung und Flächenverbrauch für Siedlung und Verkehr dezim
 Wir müssen natürliche Lebensräume konsequent schützen, bewahren und wiederherstellen, um den Verlust an Artenvielfalt zu stoppen.
 Wenn wir geeignete Bedingungen schaffen, kann sich die Artenvielfalt auch wieder erholen.
 Dafür müssen folgende Maßnahmen umgesetzt werden:
-· Starke Einschränkung der Ausbringung von Insektiziden, Herbiziden und Fungiziden; deren prophylaktische Verwendung sollte ganz vermieden werden.
-· Gezielter Ausbau des Ausbildungs- und Beratungsangebots für Landwirt:innen und Pflanzenschutzberater:innen für Alternativen zum Pestizideinsatz [19].
-· Bessere Kommunikation zwischen Wissenschaft (Agrarökologie) und Landwirt:innen, Pflanzenschutzberater:innen und Entscheidungsträger:innen, damit neue Erkenntnisse direkt in die Praxis übertragen werden [19].
-· Der Bund muss auf eine Änderung der EU-Agrarsubventionen hinarbeiten.
+- Starke Einschränkung der Ausbringung von Insektiziden, Herbiziden und Fungiziden; deren prophylaktische Verwendung sollte ganz vermieden werden.
+- Gezielter Ausbau des Ausbildungs- und Beratungsangebots für Landwirt:innen und Pflanzenschutzberater:innen für Alternativen zum Pestizideinsatz [19].
+- Bessere Kommunikation zwischen Wissenschaft (Agrarökologie) und Landwirt:innen, Pflanzenschutzberater:innen und Entscheidungsträger:innen, damit neue Erkenntnisse direkt in die Praxis übertragen werden [19].
+- Der Bund muss auf eine Änderung der EU-Agrarsubventionen hinarbeiten.
 Subventionen dürfen nur noch in Kombination mit Anlage und Erhalt von Biotopen, Hecken und Blühstreifen gewährt werden.
 Eine Mindestfläche an Biotopen ist festzusetzen (10%).
 Umweltschutzmaßnahmen sind finanziell so zu honorieren, dass ihre Umsetzung ein starker finanzieller Anreiz ist.
 Somit geschieht eine Umschichtung der Agrarförderung von Säule 1 auf Säule 2 [22].
-· Normaler Mehrwertsteuersatz auf tierische Lebensmittel von 19% statt 7%, womit die Subventionierung dieser Lebensmittel abgebaut wird [20].
-· Langfristig müssen 40% der Landesfläche unter Schutz gestellt werden.
-· Bestehende intakte Lebensräume müssen konsequent unter Schutz gestellt werden.
-· EU-Vorgaben (wie FFH-Richtlinie) müssen konsequenter umgesetzt werden.
-· Bessere Kooperation im Naturschutz innerhalb der EU und auch global fördern.
-· Sanktionierung anderer Staaten, die Naturschutz missachten.
-· In bebauten Gebieten soll eine Mindestfläche an Grünflächen vorgegeben werden.
-· Verpflichtende Fassaden- und Dachbegrünung sowie verpflichtende Solarzellen auf bestehenden und neugebauten Gebäuden.
-· Stopp der Förderung von Biogas- und Bioenergiepflanzen über das EEG, da deren Anbau die Biodiversität stark schädigt. Regenerative Stromerzeugung kann besser über Agrarphotovoltaik gefördert werden, die höhere Stromerträge liefert und die Möglichkeit bietet, Biodiversität unter den Solarzellen zu fördern [21].
-· Umgang mit invasiven Arten verbessern, durch Förderung der Forschung und Förderung von Maßnahmen gegen die Ausbreitung solcher Arten.
+- Normaler Mehrwertsteuersatz auf tierische Lebensmittel von 19% statt 7%, womit die Subventionierung dieser Lebensmittel abgebaut wird [20].
+- Langfristig müssen 40% der Landesfläche unter Schutz gestellt werden.
+- Bestehende intakte Lebensräume müssen konsequent unter Schutz gestellt werden.
+- EU-Vorgaben (wie FFH-Richtlinie) müssen konsequenter umgesetzt werden.
+- Bessere Kooperation im Naturschutz innerhalb der EU und auch global fördern.
+- Sanktionierung anderer Staaten, die Naturschutz missachten.
+- In bebauten Gebieten soll eine Mindestfläche an Grünflächen vorgegeben werden.
+- Verpflichtende Fassaden- und Dachbegrünung sowie verpflichtende Solarzellen auf bestehenden und neugebauten Gebäuden.
+- Stopp der Förderung von Biogas- und Bioenergiepflanzen über das EEG, da deren Anbau die Biodiversität stark schädigt. Regenerative Stromerzeugung kann besser über Agrarphotovoltaik gefördert werden, die höhere Stromerträge liefert und die Möglichkeit bietet, Biodiversität unter den Solarzellen zu fördern [21].
+- Umgang mit invasiven Arten verbessern, durch Förderung der Forschung und Förderung von Maßnahmen gegen die Ausbreitung solcher Arten.
 
 
 ### Wasser als eins der wichtigsten Güter schützen
@@ -115,19 +115,19 @@ Die Grenzwerte für Nitrat im Grundwasser werden an ca. 16 Prozent der Messstell
 Die noch immer zu hohe Nährstoffbelastung der Gewässer, vor allem durch die Landwirtschaft, ist der Hauptgrund für diese Belastung [12].
 Sauberes Trinkwasser wird immer mehr zum Luxusgut und es wird nicht mehr lange dauern, bis darum Kriege geführt werden.
 Um in Deutschland die Trinkwasserverfügbarkeit nachhaltig zu gewährleisten, müssen wir umdenken und folgendes umsetzen:
-· Konsequenter Gewässer- und Grundwasserschutz durch schärfere Düngeregelungen und stark reduzierten Antibiotikaeinsatz in der Tierhaltung.
-· Aufbereitung von Gülle in Kläranlagen für die Landwirtschaft, um belastenden Eintrag in das Grundwasser zu reduzieren.
-· Einleitung von Abwässern aus der Industrie strenger regeln, nicht einfach übers Klärwerk entsorgen, sondern Einhaltung von Grenzwerten (z.B. Chemikalien, Schwermetalle, pH-Wert) für die Einleitung fordern.
-· Flussläufe renaturieren.
-· Erarbeitung einer nationalen Wasserstrategie und Festlegung von Grundsätzen für eine Priorisierung von Wassernutzung (Wasserhierarchie), um auf einen Wassernotstand vorbereitet zu sein.
-· Nachhaltiges Wassermanagement einführen.
-· Förderung von Wasserspeichern.
-· Wassernutzung für Kühlwasser bei der Kohlestromproduktion reduzieren.
-· Streichung der Begünstigungen der Wasserentnahmeentgelte für den Rohstoffabbau [20].
-· Grundwasserabsenkung beim Tagebau verbieten.
-· Reduzierung des Wasserverbrauchs in Industrie und Bergbau fördern.
-· Überprüfung aller Zulassungen für die Industrie zur Grundwasserentnahme, Kontrolle der Mengen, bei kritischem Grundwasserspiegel folgt der Entnahmestopp.
-· Wasserpreise nach Nutzungsabsicht staffeln (geringste Kosten für Grundbedürfnisse).
+- Konsequenter Gewässer- und Grundwasserschutz durch schärfere Düngeregelungen und stark reduzierten Antibiotikaeinsatz in der Tierhaltung.
+- Aufbereitung von Gülle in Kläranlagen für die Landwirtschaft, um belastenden Eintrag in das Grundwasser zu reduzieren.
+- Einleitung von Abwässern aus der Industrie strenger regeln, nicht einfach übers Klärwerk entsorgen, sondern Einhaltung von Grenzwerten (z.B. Chemikalien, Schwermetalle, pH-Wert) für die Einleitung fordern.
+- Flussläufe renaturieren.
+- Erarbeitung einer nationalen Wasserstrategie und Festlegung von Grundsätzen für eine Priorisierung von Wassernutzung (Wasserhierarchie), um auf einen Wassernotstand vorbereitet zu sein.
+- Nachhaltiges Wassermanagement einführen.
+- Förderung von Wasserspeichern.
+- Wassernutzung für Kühlwasser bei der Kohlestromproduktion reduzieren.
+- Streichung der Begünstigungen der Wasserentnahmeentgelte für den Rohstoffabbau [20].
+- Grundwasserabsenkung beim Tagebau verbieten.
+- Reduzierung des Wasserverbrauchs in Industrie und Bergbau fördern.
+- Überprüfung aller Zulassungen für die Industrie zur Grundwasserentnahme, Kontrolle der Mengen, bei kritischem Grundwasserspiegel folgt der Entnahmestopp.
+- Wasserpreise nach Nutzungsabsicht staffeln (geringste Kosten für Grundbedürfnisse).
 
 
 ### Meeresschutz
@@ -139,12 +139,12 @@ Zu den größten Problemen zählen die Eutrophierung (zu hoher Nährstoffeintrag
 Auch die Ausbreitung nicht-heimischer Arten gefährden unsere heimischen Ökosysteme [14].
 Um unsere Meere konsequent zu schützen, muss der Meeresschutz einen höheren Stellenwert bekommen und institutionell aufgewertet werden.
 Deshalb wollen wir folgende Maßnahmen umsetzten:
-· Schaffung einer gut ausgestatteten, dem Bundesumweltministerium nachgeordneten Meeresschutzbehörde mit einer eigenen grünen Küstenwache (ähnlich dem australischen „National Ocean Office“ oder der amerikanischen NOAA).
-· Schaffung echter Meeresschutzgebiete und Kontrolle der Um- und Durchsetzung durch die neue Behörde, um die Industrialisierung der Nord- und Ostsee zu stoppen.
-· Konventionelle Landwirtschaft muss einen Abstand von mindestens 1 km zum Küstenrand haben, um direkten Dünger- und Pestizideintrag zu minimieren.
-· Fischbestände dürfen nur noch nachhaltig befischt werden, Bodenschleppnetze sollen verboten werden.
-· Verbot jeglicher Bohrungen nach fossilen Brennstoffen.
-· Verbot des Baus von Pipelines durch Nord- und Ostsee.
+- Schaffung einer gut ausgestatteten, dem Bundesumweltministerium nachgeordneten Meeresschutzbehörde mit einer eigenen grünen Küstenwache (ähnlich dem australischen „National Ocean Office“ oder der amerikanischen NOAA).
+- Schaffung echter Meeresschutzgebiete und Kontrolle der Um- und Durchsetzung durch die neue Behörde, um die Industrialisierung der Nord- und Ostsee zu stoppen.
+- Konventionelle Landwirtschaft muss einen Abstand von mindestens 1 km zum Küstenrand haben, um direkten Dünger- und Pestizideintrag zu minimieren.
+- Fischbestände dürfen nur noch nachhaltig befischt werden, Bodenschleppnetze sollen verboten werden.
+- Verbot jeglicher Bohrungen nach fossilen Brennstoffen.
+- Verbot des Baus von Pipelines durch Nord- und Ostsee.
 
 
 ### Tierschutz und Tierrechte stärken
@@ -154,13 +154,13 @@ In der Massentierhaltung in Deutschland werden 763 Mio. Tiere gehalten (Stand 20
 In unserer fortschrittlichen und aufgeklärten Gesellschaft sollte diese Ausbeutung nicht vorkommen.
 Wir wollen, dass das endlich aufhört.
 Deshalb wollen wir folgende Maßnahmen umsetzen:
-· Reduzierung der gehaltenen Tiere in der Landwirtschaft um mindestens 90% (siehe Kapitel Landwirtschaft).
-· Die Jagd soll ausschließlich den Jagdbehörden erlaubt sein und nur in ökologisch zwingend notwendigen Fällen durchgeführt werden.
+- Reduzierung der gehaltenen Tiere in der Landwirtschaft um mindestens 90% (siehe Kapitel Landwirtschaft).
+- Die Jagd soll ausschließlich den Jagdbehörden erlaubt sein und nur in ökologisch zwingend notwendigen Fällen durchgeführt werden.
 Freizeitjagd und Jagdtourismus wird verboten.
-· Verbot des Sportangelns.
-· Verbot des Imports von Pelzprodukten.
-· Bessere finanzielle Ausstattung von Zoos und Tiergärten, damit Tiere artgerecht gehalten werden können und die Einrichtungen mehr Umweltbildung leisten können.
-· Verbot der Tierhaltung im Zirkus.
+- Verbot des Sportangelns.
+- Verbot des Imports von Pelzprodukten.
+- Bessere finanzielle Ausstattung von Zoos und Tiergärten, damit Tiere artgerecht gehalten werden können und die Einrichtungen mehr Umweltbildung leisten können.
+- Verbot der Tierhaltung im Zirkus.
 
 
 
@@ -175,11 +175,11 @@ Was wir brauchen, ist ein Klimaanpassungsgesetz, welches Klimaanpassung flächen
 Mit dem Gesetz könnten Maßnahmen im Bereich Hochwasser- und Katastrophenschutz, Wasserknappheit und Hitzeschutz vorangetrieben werden.
 Der Hochwasserschutz spielt eine maßgebliche Rolle und muss gestärkt werden.
 Dazu gehören:
-· Entsiegelung von Flächen, Förderung von Bauweisen, die Versickerung von Regenwasser ermöglichen.
-· Schaffung von Retentionsflächen.
-· Mehr Frei- und Grünflächen in den Städten.
-· Renaturierung von Fluss- und Bachläufen.
-· Mehr Dachbegrünung, denn begrünte Dächer sorgen nicht nur für ein kühleres Lokalklima, sondern können auch Regenwasser aufnehmen.
+- Entsiegelung von Flächen, Förderung von Bauweisen, die Versickerung von Regenwasser ermöglichen.
+- Schaffung von Retentionsflächen.
+- Mehr Frei- und Grünflächen in den Städten.
+- Renaturierung von Fluss- und Bachläufen.
+- Mehr Dachbegrünung, denn begrünte Dächer sorgen nicht nur für ein kühleres Lokalklima, sondern können auch Regenwasser aufnehmen.
 
 
 Diese Maßnahmen helfen auch der Entstehung von Hitzeinseln entgegenzuwirken.
